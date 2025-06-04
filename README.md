@@ -1,4 +1,7 @@
 # Hackathon_team_16_nyous
+
+![alt_text ](https://github.com/alderante/Hackathon_team_16_nyous/blob/main/logo.png?raw=true)
+
 Public repo for Digital Editorial Revolution - Team 16 - NYOUS
 
 This is our public repo. What's included within?
