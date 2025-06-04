@@ -1,6 +1,6 @@
 # Hackathon_team_16_nyous
 
-<img src="https://github.com/alderante/Hackathon_team_16_nyous/blob/main/logo.png?raw=true" alt="alt_text" width="300"/>
+<img src="https://github.com/alderante/Hackathon_team_16_nyous/blob/main/logo.pn2g?raw=true" alt="alt_text" width="300"/>
 
 Public repo for Digital Editorial Revolution - Team 16 - NYOUS
 
